@@ -16,7 +16,7 @@ public class BedmasAndCasting {
         //mod -> % = remainder of a calculation
         //44 / 7, remainder = 2
         int leftover = 44 % 7;
-        System.out.format("I have %d cany left over\n", leftover);
+        System.out.format("I have %d candy left over\n", leftover);
         
         //BEDMAS
         System.out.println("\n\nBEDMAS\n======");
